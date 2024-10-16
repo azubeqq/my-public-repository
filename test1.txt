@@ -1,1 +1,1 @@
-test message from linux command line N1
+test message from linux terminal N1
