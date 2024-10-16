@@ -1,1 +1,1 @@
-test message from linux terminal N1
+test message from linux terminal N1+ssh
